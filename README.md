@@ -20,9 +20,7 @@ see the site.
 Test your changes locally, then push to your GitHub repo and send a Pull
 Request for review.
 
-
-
-###How to become a registered ambassador:  
+### How to become a registered ambassador:  
 
 - Fill in the form http://goo.gl/forms/9L0I1unVRF;  
 
@@ -34,8 +32,7 @@ Alessandro Bogliolo, who is the overall Code Week coordinator will update the sh
 
 You can then edit your profile specifying (at least) the country. 
 
-
-###How to take part in “CodeWeek4all challenge”:  
+### How to take part in “CodeWeek4all challenge”:  
 
 - Fill in the application form http://goo.gl/forms/kx4LfjFRo9QLQOg32;  
 
@@ -43,24 +40,22 @@ You can then edit your profile specifying (at least) the country.
 
 - Add the event to [the map of CodeWeek events](http://events.codeweek.eu/) with the code of the school.  
 
-
-###To edit the About page:
+### To edit the About page:
 - Go to [about/index.html](/about/index.html)
 
 
-###To edit the CodeWeek4All page:
+### To edit the CodeWeek4All page:
 - Go to [codeweek4all/index.html](/codeweek4all/index.html)
 
 
-###To edit Privacy page:
+### To edit Privacy page:
 - Go to [privacy/index.html](/privacy/index.html)
 
 
-###To edit Website Under Maintenance page:
+### To edit Website Under Maintenance page:
 - Go to [sorry/index.html](/sorry/index.html)
 
-###To add Resources:
+### To add Resources:
 - Go to [resources/[your country name]/index.html](/resources)
-
 
 Thank you for contributing.
